@@ -22,4 +22,4 @@ Synent Technologies Python Development Internship (Task 1).
 - colorama library
 
 ## Author
-Dharshini| Synent Technologies Internship 2025
+Dharshini| Synent Technologies Internship 2026
